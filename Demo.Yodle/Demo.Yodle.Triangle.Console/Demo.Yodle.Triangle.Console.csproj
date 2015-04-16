@@ -48,9 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="triangle - test.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="triangle - test.txt" />
     <Content Include="triangle.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
