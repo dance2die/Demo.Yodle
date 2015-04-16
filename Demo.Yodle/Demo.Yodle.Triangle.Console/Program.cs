@@ -17,6 +17,7 @@ namespace Demo.Yodle.Triangle.Console
 			System.Console.WriteLine("Result: {0}", result);
 		}
 
+
 		private static int FindMaxiumTotal(int[][] input)
 		{
 			int result = 0;
