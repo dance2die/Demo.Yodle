@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace Demo.Yodle.JuggleFest.Console
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		private static string INPUT_FILE = @".\jugglefest.txt";
+		private static string TEST_INPUT_FILE = @".\jugglefest - test.txt";
+
+		public static void Main(string[] args)
 		{
+
 		}
 	}
 }
