@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StableMarriage", "StableMar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HungarianAlgorithm", "HungarianAlgorithm\HungarianAlgorithm.csproj", "{43DBB0A9-24B5-4095-8AE6-72ECB2FE75E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HungarianStableMarriage", "HungarianStableMarriage\HungarianStableMarriage.csproj", "{1B783F57-CB4B-4B95-A186-008A1D71D06A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{43DBB0A9-24B5-4095-8AE6-72ECB2FE75E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43DBB0A9-24B5-4095-8AE6-72ECB2FE75E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43DBB0A9-24B5-4095-8AE6-72ECB2FE75E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B783F57-CB4B-4B95-A186-008A1D71D06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B783F57-CB4B-4B95-A186-008A1D71D06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B783F57-CB4B-4B95-A186-008A1D71D06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B783F57-CB4B-4B95-A186-008A1D71D06A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
